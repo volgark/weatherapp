@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="location">Location</string>
+    <string name="temperature">00</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="cloudiness">Cloudiness</string>
+    <string name="button_refresh">Button Refresh</string>
+    <string name="refresh">Refresh</string>
+    <string name="icon">Icon</string>
+</resources>
